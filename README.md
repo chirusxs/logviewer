@@ -1,16 +1,10 @@
 <div align="center">
-    <h1>Modmail Log Viewer</h1>
-    <strong><i>A simple webserver to view your selfhosted modmail logs.</i></strong>
+    <h1>Chiru Soporte Log Viewer</h1>
+    <strong><i>Un sitio web utilizado para ver registros de tickets.</i></strong>
     <br />
     <br />
-    <a href="https://heroku.com/deploy?template=https://github.com/chirusxs/logviewer">
-      <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge" alt="Deploy to Heroku"/>
-    </a>
-    <a href="https://discord.gg/etJNHCQ">
+    <a href="https://discord.gg/HbJMAvrnEW">
       <img src="https://img.shields.io/discord/515071617815019520.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
-    </a>
-    <a href="https://patreon.com/kyber">
-      <img src="https://img.shields.io/badge/patreon-donate-orange.svg?style=for-the-badge&logo=Patreon" alt="Donate on Patreon">
     </a>
     <a href="https://www.python.org/downloads/">
       <img src="https://img.shields.io/badge/Made%20With-Python%203.9-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.9">
@@ -18,7 +12,7 @@
     <a href="https://github.com/psf/black">
       <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=for-the-badge" alt="Coding Style Black">
     </a>
-    <a href="https://github.com/kyb3r/logviewer/blob/master/LICENSE">
+    <a href="https://github.com/chirusxs/logviewer/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="AGPL License">
     </a>
 </div>
